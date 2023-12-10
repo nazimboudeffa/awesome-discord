@@ -18,6 +18,10 @@ This repo is for whom want to engage in Discord
 
 - Dudeism https://discord.gg/dudeism
 
+## Influencers
+
+- Melvynx https://discord.gg/Qzccn2ZHX6
+
 ## AI
 
 - vidyo.ai https://discord.gg/qSr9pJRA :recycle:
