@@ -6,6 +6,7 @@ This repo is for whom want to engage in Discord
 
 ## French General Server
 
+- OUR LITTLE COOL CODING SERVER https://discord.gg/EpZTKMb
 - grafikart.fr https://discord.gg/grafikart
 
 ## Universities
