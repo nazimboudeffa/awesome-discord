@@ -5,6 +5,18 @@ This repo is for whom want to engage in Discord
 ## French General Server
 
 - https://discord.gg/grafikart
+- University of Rennes ISTIC https://discord.gg/QF7NJuVD *
+- University of Lyon Informatique https://discord.gg/NDZVVtVv *
+
+## AI
+
+- vidyo.ai https://discord.gg/qSr9pJRA *
+- pika.ai https://discord.gg/pika *
+- lensgo.ai https://discord.gg/fJMXKt2u *
+
+## Gaming
+
+- Cloud Gaming France https://discord.gg/UdfyAnCU *
 
 ## Vuejs
 
