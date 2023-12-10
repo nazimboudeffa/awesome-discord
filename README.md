@@ -7,6 +7,9 @@ This repo is for whom want to engage in Discord
 ## French General Server
 
 - grafikart.fr https://discord.gg/grafikart
+
+## Universities
+
 - University of Rennes ISTIC https://discord.gg/6b3c25EUSf
 - University of Lyon Informatique https://discord.gg/vHX485xJAE
 
