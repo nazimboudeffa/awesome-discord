@@ -2,6 +2,8 @@
 
 This repo is for whom want to engage in Discord
 
+* should be illimited
+
 ## French General Server
 
 - https://discord.gg/grafikart
