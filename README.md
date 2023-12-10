@@ -2,13 +2,13 @@
 
 This repo is for whom want to engage in Discord
 
-* should be illimited
+:recycle: should be illimited
 
 ## French General Server
 
 - grafikart.fr https://discord.gg/grafikart
-- University of Rennes ISTIC https://discord.gg/QF7NJuVD *
-- University of Lyon Informatique https://discord.gg/NDZVVtVv *
+- University of Rennes ISTIC https://discord.gg/QF7NJuVD :recycle:
+- University of Lyon Informatique https://discord.gg/NDZVVtVv :recycle:
 
 ## Drawing
 
@@ -20,14 +20,14 @@ This repo is for whom want to engage in Discord
 
 ## AI
 
-- vidyo.ai https://discord.gg/qSr9pJRA *
-- pika.ai https://discord.gg/pika *
-- lensgo.ai https://discord.gg/fJMXKt2u *
+- vidyo.ai https://discord.gg/qSr9pJRA :recycle:
+- pika.ai https://discord.gg/pika :recycle:
+- lensgo.ai https://discord.gg/fJMXKt2u :recycle:
 - v0.dev https://discord.gg/4KUgpKtWwj
 
 ## Gaming
 
-- Cloud Gaming France https://discord.gg/UdfyAnCU *
+- Cloud Gaming France https://discord.gg/UdfyAnCU :recycle:
 
 ## Frameworks
 
