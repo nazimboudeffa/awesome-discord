@@ -10,6 +10,10 @@ This repo is for whom want to engage in Discord
 - University of Rennes ISTIC https://discord.gg/6b3c25EUSf
 - University of Lyon Informatique https://discord.gg/vHX485xJAE
 
+# Business
+
+- blast.club https://discord.gg/blastclubfr
+
 ## Drawing
 
 - https://discord.gg/tapascommunity
