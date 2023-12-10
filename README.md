@@ -18,12 +18,12 @@ This repo is for whom want to engage in Discord
 
 - https://discord.gg/dudeism
 
-
 ## AI
 
 - vidyo.ai https://discord.gg/qSr9pJRA *
 - pika.ai https://discord.gg/pika *
 - lensgo.ai https://discord.gg/fJMXKt2u *
+- v0.dev https://discord.gg/4KUgpKtWwj
 
 ## Gaming
 
@@ -32,6 +32,15 @@ This repo is for whom want to engage in Discord
 ## Frameworks
 
 - Nextjs https://discord.gg/nextjs
+- Vitejs https://discord.gg/vite-land-804011606160703521
+- Remix not able to have a link
+
+# DB
+
+- Neon.tech https://discord.gg/nhYbBgXhpw
+- Supabase https://discord.gg/vJyxTDsxS9
+- Railway https://discord.gg/railway
+- https://coolify.io/ at the end of the page
 
 ## Vuejs
 
