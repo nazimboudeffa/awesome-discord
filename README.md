@@ -7,8 +7,8 @@ This repo is for whom want to engage in Discord
 ## French General Server
 
 - grafikart.fr https://discord.gg/grafikart
-- University of Rennes ISTIC https://discord.gg/QF7NJuVD :recycle:
-- University of Lyon Informatique https://discord.gg/NDZVVtVv :recycle:
+- University of Rennes ISTIC https://discord.gg/6b3c25EUSf
+- University of Lyon Informatique https://discord.gg/vHX485xJAE
 
 ## Drawing
 
@@ -24,14 +24,21 @@ This repo is for whom want to engage in Discord
 
 ## AI
 
-- vidyo.ai https://discord.gg/qSr9pJRA :recycle:
+- vidyo.ai https://discord.gg/2We4Ty4Uyn
 - pika.ai https://discord.gg/pika
-- lensgo.ai https://discord.gg/fJMXKt2u :recycle:
+- lensgo.ai https://discord.gg/RzRUsCdhnf
 - v0.dev https://discord.gg/4KUgpKtWwj
+- leonardo.ai https://discord.gg/leonardo-ai
+- Midjourney https://discord.gg/midjourney
 
 ## Gaming
 
 - Cloud Gaming France https://discord.gg/QFvk5hUTBH
+
+## E-Commerce
+
+- Medusajs https://discord.gg/medusajs
+- Vendure https://discord.gg/NpzBDJxt8e
 
 ## Frameworks
 
