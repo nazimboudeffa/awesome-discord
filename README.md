@@ -14,9 +14,9 @@ This repo is for whom want to engage in Discord
 
 - https://discord.gg/tapascommunity
 
-## Phylosophy
+## Philosophy
 
-- https://discord.gg/dudeism
+- Dudeism https://discord.gg/dudeism
 
 ## AI
 
