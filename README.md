@@ -21,7 +21,7 @@ This repo is for whom want to engage in Discord
 ## AI
 
 - vidyo.ai https://discord.gg/qSr9pJRA :recycle:
-- pika.ai https://discord.gg/pika :recycle:
+- pika.ai https://discord.gg/pika
 - lensgo.ai https://discord.gg/fJMXKt2u :recycle:
 - v0.dev https://discord.gg/4KUgpKtWwj
 
