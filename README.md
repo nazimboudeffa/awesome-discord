@@ -50,7 +50,8 @@ This repo is for whom want to engage in Discord
 ## Frameworks
 
 - Nextjs https://discord.gg/nextjs
-- Vitejs https://discord.gg/vite-land-804011606160703521
+- Vitejs https://discord.gg/vite-land-804011606160703521 :recycle:
+- Vite: https://chat.vitejs.dev/
 - Remix not able to have a link
 
 ## 2D frameworks
@@ -202,7 +203,6 @@ This repo is for whom want to engage in Discord
 - FormKit: https://discord.gg/2q3UZkUQbR
 - Naive UI: https://discord.gg/Pqv7Mev5Dd
 - Oruga UI: https://discord.gg/9kPxPUXzRZ
-- Vite: https://chat.vitejs.dev/
 - Volar: https://discord.gg/d5TqRH8Tya
 - Vue Formulate: https://discord.gg/NTYTVm5yFp
 - Windi CSS: https://discord.gg/YHVBncpN5g
