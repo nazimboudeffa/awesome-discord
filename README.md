@@ -45,6 +45,7 @@ This repo is for whom want to engage in Discord
 - Nextjs https://discord.gg/nextjs
 - Vitejs https://discord.gg/vite-land-804011606160703521
 - Remix not able to have a link
+- Phaserjs https://discord.gg/phaser
 
 ## DB
 
