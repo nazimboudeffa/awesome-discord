@@ -9,6 +9,10 @@ This repo is for whom want to engage in Discord
 - OUR LITTLE COOL CODING SERVER https://discord.gg/EpZTKMb
 - grafikart.fr https://discord.gg/grafikart
 
+## Influencers
+
+- Melvynx https://discord.gg/Qzccn2ZHX6
+
 ## Universities
 
 - University of Rennes ISTIC https://discord.gg/6b3c25EUSf
@@ -25,10 +29,6 @@ This repo is for whom want to engage in Discord
 ## Philosophy
 
 - Dudeism https://discord.gg/dudeism
-
-## Influencers
-
-- Melvynx https://discord.gg/Qzccn2ZHX6
 
 ## AI
 
