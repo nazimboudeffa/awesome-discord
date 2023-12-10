@@ -42,7 +42,7 @@ This repo is for whom want to engage in Discord
 
 - Cloud Gaming France https://discord.gg/QFvk5hUTBH
 
-## E-Commerce
+## eCommerce
 
 - Medusajs https://discord.gg/medusajs
 - Vendure https://discord.gg/NpzBDJxt8e
