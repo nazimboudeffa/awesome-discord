@@ -10,6 +10,15 @@ This repo is for whom want to engage in Discord
 - University of Rennes ISTIC https://discord.gg/QF7NJuVD *
 - University of Lyon Informatique https://discord.gg/NDZVVtVv *
 
+## Drawing
+
+- https://discord.gg/tapascommunity
+
+## Phylosophy
+
+- https://discord.gg/dudeism
+
+
 ## AI
 
 - vidyo.ai https://discord.gg/qSr9pJRA *
@@ -19,6 +28,10 @@ This repo is for whom want to engage in Discord
 ## Gaming
 
 - Cloud Gaming France https://discord.gg/UdfyAnCU *
+
+## Frameworks
+
+- Nextjs https://discord.gg/nextjs
 
 ## Vuejs
 
