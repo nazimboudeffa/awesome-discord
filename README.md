@@ -35,7 +35,7 @@ This repo is for whom want to engage in Discord
 - Vitejs https://discord.gg/vite-land-804011606160703521
 - Remix not able to have a link
 
-# DB
+## DB
 
 - Neon.tech https://discord.gg/nhYbBgXhpw
 - Supabase https://discord.gg/vJyxTDsxS9
