@@ -22,6 +22,10 @@ This repo is for whom want to engage in Discord
 
 - blast.club https://discord.gg/blastclubfr
 
+## Crypto
+
+- The Sand Box https://discord.gg/thesandboxgame
+
 ## Drawing
 
 - https://discord.gg/tapascommunity
