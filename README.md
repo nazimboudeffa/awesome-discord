@@ -47,6 +47,7 @@ This repo is for whom want to engage in Discord
 ## Gaming
 
 - Cloud Gaming France https://discord.gg/QFvk5hUTBH
+- r/GeForceNOW https://discord.gg/geforcenow
 
 ## eCommerce
 
