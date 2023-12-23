@@ -59,9 +59,10 @@ This repo is for whom want to engage in Discord
 - Vite: https://chat.vitejs.dev/
 - Remix not able to have a link
 
-## 2D frameworks
+## Game frameworks
 
 - Phaserjs https://discord.gg/phaser
+- Solarus https://discord.gg/8V2NhHvrpP
 
 ## DB
 
