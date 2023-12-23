@@ -2,7 +2,7 @@
 
 This repo is for whom want to engage in Discord
 
-:recycle: should be illimited or expired
+:recycle: link should be illimited or has expired
 
 ## General Server
 
