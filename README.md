@@ -30,9 +30,10 @@ This repo is for whom want to engage in Discord
 
 - https://discord.gg/tapascommunity
 
-## Philosophy
+## Philosophy/Religion
 
 - Dudeism https://discord.gg/dudeism
+- Quran.com https://discord.gg/uJsH47wSvR
 
 ## AI
 
