@@ -65,6 +65,7 @@ This repo is for whom want to engage in Discord
 
 - Phaserjs https://discord.gg/phaser
 - Solarus https://discord.gg/8V2NhHvrpP
+- Phaser Editor https://discord.gg/NrY7EnZwzP
 
 ## DB
 
