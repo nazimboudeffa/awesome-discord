@@ -25,6 +25,8 @@ This repo is for whom want to engage in Discord
 ## Crypto
 
 - The Sand Box https://discord.gg/thesandboxgame
+- Doge
+- Other shitcoin
 
 ## Drawing
 
