@@ -4,6 +4,8 @@ This repo is for whom want to engage in Discord
 
 :recycle: link should be illimited or has expired
 
+https://emojidb.org
+
 ## General Server
 
 - OUR LITTLE COOL CODING SERVER https://discord.gg/EpZTKMb
