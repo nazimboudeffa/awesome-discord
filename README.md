@@ -39,6 +39,16 @@ https://emojidb.org
 - Dudeism https://discord.gg/dudeism
 - Quran.com https://discord.gg/uJsH47wSvR
 
+## CyberSecurity
+
+- OZINT : https://lnkd.in/e4WqnF7Q
+- Hexadream Academy : https://lnkd.in/eymwKTkZ
+- BE-CYBER Community : https://lnkd.in/eppcYYuC
+- Génération XY : https://lnkd.in/eVBKS3r8
+- CTF Hacking France : https://lnkd.in/ene7iva3
+- HacktBack : https://lnkd.in/epfyuWEC
+- Dysnome : https://lnkd.in/eyf2-MXE
+
 ## AI
 
 - vidyo.ai https://discord.gg/2We4Ty4Uyn
