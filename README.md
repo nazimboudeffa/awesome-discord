@@ -48,6 +48,7 @@ https://emojidb.org
 - CTF Hacking France : https://lnkd.in/ene7iva3
 - HacktBack : https://lnkd.in/epfyuWEC
 - Dysnome : https://lnkd.in/eyf2-MXE
+- XSS https://discordapp.com/invite/mRcNtVJ
 
 ## AI
 
