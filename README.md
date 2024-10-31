@@ -41,6 +41,9 @@ https://emojidb.org
 
 ## CyberSecurity
 
+- Hack the Box : https://discord.gg/hackthebox
+- Root Me : https://discord.gg/rootme
+- Try Hack Me : https://discord.gg/tryhackme
 - OZINT : https://lnkd.in/e4WqnF7Q
 - Hexadream Academy : https://lnkd.in/eymwKTkZ
 - BE-CYBER Community : https://lnkd.in/eppcYYuC
