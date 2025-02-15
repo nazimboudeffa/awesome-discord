@@ -19,6 +19,8 @@ https://emojidb.org
 ## Influencers
 
 - Melvynx https://discord.gg/Qzccn2ZHX6
+- Marc Louvion https://discord.gg/pyRD4rjMHS
+- 
 
 ## Universities
 
