@@ -16,11 +16,10 @@ https://emojidb.org
 - Hostarts https://discord.gg/uuawhEkTYP
 - DZ devs https://discord.gg/pyRD4rjMHS
 
-## Influencers
+## FR Influencers
 
 - Melvynx https://discord.gg/Qzccn2ZHX6
 - Marc Louvion https://discord.gg/pyRD4rjMHS
-- 
 
 ## Universities
 
