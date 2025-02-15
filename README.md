@@ -79,6 +79,7 @@ https://emojidb.org
 
 - Cloud Gaming France https://discord.gg/QFvk5hUTBH
 - r/GeForceNOW https://discord.gg/geforcenow
+- Chess.com https://discord.gg/chesscom
 
 ## eCommerce
 
