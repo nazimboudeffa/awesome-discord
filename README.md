@@ -28,6 +28,11 @@ https://emojidb.org
 - University of Rennes ISTIC https://discord.gg/6b3c25EUSf
 - University of Lyon Informatique https://discord.gg/vHX485xJAE
 
+## PaaS
+
+- Coolify https://discord.gg/coolify
+- DokPloy https://discord.gg/9qecq8rmYF
+
 ## Business
 
 - blast.club https://discord.gg/blastclubfr
