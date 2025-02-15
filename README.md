@@ -11,6 +11,10 @@ https://emojidb.org
 - OUR LITTLE COOL CODING SERVER https://discord.gg/EpZTKMb
 - grafikart.fr https://discord.gg/grafikart
 
+## DZ
+
+- Hostarts https://discord.gg/uuawhEkTYP
+
 ## Influencers
 
 - Melvynx https://discord.gg/Qzccn2ZHX6
