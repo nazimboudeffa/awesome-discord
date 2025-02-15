@@ -22,6 +22,7 @@ https://emojidb.org
 - Marc Louvion https://discord.gg/pyRD4rjMHS
 - SaaS Creators https://discord.gg/gQAXGnhg9C
 - Zap DEV https://discord.gg/pTjmYSWKza
+- andapirate https://discord.gg/andapirate
 
 ## Universities
 
