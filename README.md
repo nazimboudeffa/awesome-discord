@@ -23,6 +23,7 @@ https://emojidb.org
 - SaaS Creators https://discord.gg/gQAXGnhg9C
 - Zap DEV https://discord.gg/pTjmYSWKza
 - andapirate https://discord.gg/andapirate
+- CGF https://discord.gg/5XEmgZJzWM
 
 ## Universities
 
