@@ -14,6 +14,7 @@ https://emojidb.org
 ## DZ
 
 - Hostarts https://discord.gg/uuawhEkTYP
+- DZ devs https://discord.gg/pyRD4rjMHS
 
 ## Influencers
 
