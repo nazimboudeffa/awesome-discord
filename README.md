@@ -59,13 +59,6 @@ https://emojidb.org
 - Hack the Box : https://discord.gg/hackthebox
 - Root Me : https://discord.gg/rootme
 - Try Hack Me : https://discord.gg/tryhackme
-- OZINT : https://lnkd.in/e4WqnF7Q
-- Hexadream Academy : https://lnkd.in/eymwKTkZ
-- BE-CYBER Community : https://lnkd.in/eppcYYuC
-- Génération XY : https://lnkd.in/eVBKS3r8
-- CTF Hacking France : https://lnkd.in/ene7iva3
-- HacktBack : https://lnkd.in/epfyuWEC
-- Dysnome : https://lnkd.in/eyf2-MXE
 - XSS https://discordapp.com/invite/mRcNtVJ
 
 ## AI
