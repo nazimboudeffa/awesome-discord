@@ -63,6 +63,7 @@ https://emojidb.org
 
 ## AI
 
+- Mastra AI https://discord.gg/TH4AfdMA
 - vidyo.ai https://discord.gg/2We4Ty4Uyn
 - pika.ai https://discord.gg/pika
 - lensgo.ai https://discord.gg/RzRUsCdhnf
