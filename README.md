@@ -63,7 +63,7 @@ https://emojidb.org
 
 ## AI
 
-- Mastra AI https://discord.gg/TH4AfdMA
+- Mastra AI https://discord.gg/Z8St5VvdwX
 - vidyo.ai https://discord.gg/2We4Ty4Uyn
 - pika.ai https://discord.gg/pika
 - lensgo.ai https://discord.gg/RzRUsCdhnf
@@ -93,7 +93,7 @@ https://emojidb.org
 
 - Phaserjs https://discord.gg/phaser
 - Solarus https://discord.gg/8V2NhHvrpP
-- Phaser Editor https://discord.gg/NrY7EnZwzP
+- Phaser Editor https://discord.gg/NrY7EnZwzP ♻️
 
 ## DB
 
@@ -104,7 +104,7 @@ https://emojidb.org
 
 ## API
 
-- The Sports DB https://discord.gg/FuP3PD6m
+- The Sports DB https://discord.gg/vdstgeW4ES
 
 ## Vuejs
 
@@ -127,6 +127,7 @@ https://emojidb.org
 
 ## UI libraries
 
+- DaisyUI https://discord.gg/HJJm8uysU3
 - Bootstrap-Vue: https://discord.com/invite/B8pcyCd
 - Buefy: https://discordapp.com/invite/ZkdFJMr
 - Chakra UI: https://discord.gg/jvsvfQSjhv
