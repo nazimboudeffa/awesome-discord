@@ -102,6 +102,10 @@ https://emojidb.org
 - Railway https://discord.gg/railway
 - https://coolify.io/ at the end of the page
 
+## API
+
+- The Sports DB https://discord.gg/FuP3PD6m
+
 ## Vuejs
 
 - Vue Land: https://chat.vuejs.org/
