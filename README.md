@@ -76,6 +76,9 @@ https://emojidb.org
 - Cloud Gaming France https://discord.gg/QFvk5hUTBH
 - r/GeForceNOW https://discord.gg/geforcenow
 - Chess.com https://discord.gg/chesscom
+- Omada https://discord.gg/5X4KxBWDfu
+- Royaltiz https://discord.gg/z87BYeny5p
+- Trendex https://discord.gg/8QpEDAfkJc
 
 ## eCommerce
 
