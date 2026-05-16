@@ -51,8 +51,9 @@ https://emojidb.org
 
 ## Philosophy/Religion
 
-- Dudeism https://discord.gg/dudeism
+- Dudeism https://discord.gg/dudeism (terminé)
 - Quran.com https://discord.gg/uJsH47wSvR
+- Frère Adrien https://discord.com/invite/lamourvaincra
 
 ## CyberSecurity
 
